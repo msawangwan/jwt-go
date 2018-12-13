@@ -1,1 +1,1 @@
-module github.com/msawangwan/jwt-go/v3
+module github.com/msawangwan/jwt-go/v4
